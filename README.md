@@ -1,3 +1,5 @@
+BPI interview project
+
 To run :
 
 - run `composer install`
